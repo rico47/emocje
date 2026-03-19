@@ -110,6 +110,6 @@ class YouTubeEmotionAnalyzer:
 
 # Podaj link do dowolnego filmu na YouTube
 #yt_url = "https://www.youtube.com/watch?v=BKre0Ntpna0"
-yt_url = "https://www.youtube.com/watch?v=QxsKwGfwMBc"
+yt_url = "https://www.youtube.com/watch?v=Tg6ij6GtH6U"
 analyzer = YouTubeEmotionAnalyzer(yt_url)
 analyzer.start()
